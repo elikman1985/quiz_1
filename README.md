@@ -30,12 +30,12 @@
       - нельзя сохранить вопрос, в котором все ответы правильные
   
 # Доп. требования к проекту
-- Проект должен быть выложен на GitHub
-- Наличие файла requirements.txt
-- venv
+- Проект должен быть выложен на GitHub +
+- Наличие файла requirements.txt +
+- venv +
 - DB --> PostgreSQL
   - миграция DB
-- bootstrap5
+- bootstrap5 +
 - API
   - unit tests
   
